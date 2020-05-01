@@ -2,7 +2,9 @@
 """
 Created on Fri Apr 24 13:58:31 2020
 
-@author: test
+@author: Marco Perdomo
+
+Environment by: https://github.com/KeithGalli/
 """
 
 import numpy as np
